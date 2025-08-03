@@ -1,2 +1,0 @@
-
-cosnta del = []
